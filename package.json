@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio13-eslint",
+  "version": "1.0.0",
+  "description": "Modulo 13 Ejercicio 1 EsLint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustin Godoy",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
